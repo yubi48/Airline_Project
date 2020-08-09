@@ -1,5 +1,5 @@
 package com.customer.service;
 
-public interface ProfileServie {
+public interface CustomerServie {
 
 }
