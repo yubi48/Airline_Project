@@ -1,5 +1,5 @@
 package com.customer.entity;
 
-public class ProfileEntity {
+public class CustomerEntity {
 
 }
